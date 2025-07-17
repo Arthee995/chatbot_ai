@@ -69,7 +69,7 @@ from langchain.memory import ConversationBufferMemory
 import os
 
 # Set your API key
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = "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"
 # Create memory
 memory = ConversationBufferMemory()
 
